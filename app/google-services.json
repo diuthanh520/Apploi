@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305279197209",
+    "firebase_url": "https://thejournalapp-610e1-default-rtdb.firebaseio.com",
+    "project_id": "thejournalapp-610e1",
+    "storage_bucket": "thejournalapp-610e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305279197209:android:91f8386e73b38949614a88",
+        "android_client_info": {
+          "package_name": "com.diuthanh.thejournalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305279197209-snpdohjstvgfn0kk7264h2qvajjciik2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diuthanh.thejournalapp",
+            "certificate_hash": "5c5f1fca4befa5ccb37667ec671cea32c42ca2ed"
+          }
+        },
+        {
+          "client_id": "305279197209-hu86gs4dfq09a01lq9obm5pdipln86bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQ9VygBDnX66n48tyNqKP6840rG6vSzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305279197209-hu86gs4dfq09a01lq9obm5pdipln86bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
